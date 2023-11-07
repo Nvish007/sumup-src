@@ -1,0 +1,656 @@
+{
+        "global": {
+            "english": "Engels",
+            "france": "Frans",
+            "dutch": "Nederlands",
+            "magyar": "Hongaars"
+        },
+        "drawerContent": {
+            "myAccount": "Mijn account",
+            "payments": "Betalingen",
+            "myRides": "Mijn ritten",
+            "myReservation": "Mijn reservaties",
+            "bookVehicle": "Boek een voertuig",
+            "topUp": "Saldo aanvullen",
+            "subscription": "Abonnement",
+            "support": "Helpdesk",
+            "documents": "Documenten",
+            "about": "Over",
+            "AccountDeactivate": "Delete My Account",
+            "delete": "Delete your account?",
+            "deleteConfirmation": "This would delete your personal data from our system",
+            "logout": "Uitloggen",
+            "ble": "BLE",
+            "yes": "Ja",
+            "cancel": "Annuleren",
+            "confirm": "Bevestig uitloggen",
+            "referral": "Doorverwijscode",
+            "damage": "Schaderapport",
+            "wallet": "Wallet & betalingen",
+            "paymentMethod": "Betaalmethode"
+        },
+        "homeScreen": {
+            "buttonText": "Scan QR"
+        },
+        "profileScreen": {
+            "language": "Taal:",
+            "document": "Documenten",
+            "passwordPlaceholder": "Wachtwoord wijzigen",
+            "confirmPasswordPlaceholder": "Bevestig gewijzigd wachtwoord",
+            "save": "Opslaan",
+            "select": "Selecteer",
+            "emailPlaceholder": "E-mail",
+            "firstNamePlaceholder": "Voornaam",
+            "lastNamePlaceholder": "Achternaam",
+            "mobileNumberPlaceholder": "Mobiel nummer",
+            "updateButtonText": "Profiel bijwerken",
+            "enterPassword": "Geef paswoord in",
+            "drivingLicence": "Rijbewijs",
+            "paymentMethod": "Betaalmethodes:",
+            "noPayments": "Er is geen betaalmethode beschikbaar",
+            "add": "Toevoegen"
+        },
+        "supportScreen": {
+            "titleText": "Hulp nodig?",
+            "contact": "Contacteer onze helpdesk:",
+            "emailText": "E-MAIL",
+            "chat": "Chat",
+            "text1": "Bekijk onze",
+            "text2": "FAQ's",
+            "text3": "Of bekijk de app",
+            "text4": "instructievideo"
+        },
+        "damageReport": {
+            "attachImage": ""
+        },
+        "reservationsScreen": {
+            "Starttime": "Starttijd*",
+            "endtime": "eindtijd*",
+            "location": "Locatie",
+            "vehicle": "Voertuigtype",
+            "map": "Toon kaart",
+            "search": "Zoeken"
+        },
+        "subscriptionScreen": {
+            "listTitle1": "Startdatum: ",
+            "listTitle2": "Einddatum: ",
+            "listTitle3": "Periode: ",
+            "renewedDetails": "Dit abonnement wordt automatisch verlengd tot opzegging.",
+            "subscriptionCancelText": "Abonnement opzeggen",
+            "tripsTexts": "Informatie over het abonnement"
+        },
+        "subscribeScreen": {
+            "listTitle1": "Buitenseizoenspas",
+            "listSubTitle1": "... / maand",
+            "listContent1": "Neem een fiets voor jezelf, alleen jij huurt de fiets. Abonnement is inclusief acculader en je kunt parkeren waar je wilt :)",
+            "listTitle2": "Betaal per rit",
+            "listSubTitle2": "Geniet van een fiets voor korte ritten wanneer u maar wilt! 3 per minuut.",
+            "listContent2": "Vanaf 60 minuten 5 per minute.",
+            "listTitle3": "Maandelijks abonnement",
+            "listSubTitle3": "... / maand",
+            "listContent3": "For those who want to enjoy a ... Bike regularly! You get 10 minutes of riding credit per rent, 2 ... per minute after this credit it used. After 60 Minutes, this increases to 5 ... per minute Renews automatically every month.",
+            "nextButtonTexts": "Volgende"
+        },
+        "confirmSubscription": {
+            "listTitle1": "Startkost: ",
+            "listTitle2": "Terugkerende kost: ",
+            "listTitle3": "Periode: : ",
+            "renewedDetails": "Dit abonnement wordt automatisch verlengd tot opzegging.",
+            "renewedDetails2": "Om dit abonnement te activeren dient u uw creditcard aan uw account te koppelen.",
+            "tripsTexts": "Voor wie regelmatig wil genieten van een ... Fiets! Je krijgt 10 minuten rijtegoed per huur, 2 per minuut nadat dit tegoed is verbruikt. Na 60 minuten loopt dit op tot 5 per minuut. Wordt elke maand automatisch verlengd.",
+            "confirmButtonText": "Bevestigen"
+        },
+        "reportProblemScreen": {
+            "problemDetailText": "Vul het onderstaande formulier in om ons te laten weten als u problemen met uw fiets ervaart. Gebruik een nummer uit de afbeelding als referentie om aan te geven waar het probleem zit.",
+            "bikeNamePlaceholder": "Fietsnaam",
+            "textareaPlaceholder": "Inhoud",
+            "submitButtonText": "Indienen"
+        },
+        "searchScreen": {
+            "titleText": "Voer het identificatienummer in",
+            "textDiscription": "Kies een fiets en voer de laatste 6 cijfers van de code op het laadstation in om hem te ontgrendelen.",
+            "placeHolderText": "bvb. 123456",
+            "headerTitle": "Zoeken",
+            "continue": "DOORGAAN"
+        },
+        "phoneVerificationScreen": {
+            "verifyText": "Account verifiëren ",
+            "numberVerification": "Nummer verifiëren ",
+            "smsText": "We hebben een sms met een code gestuurd naar",
+            "smsVerifyText": "Voer deze code in om je mobiele nummer te verifiëren",
+            "waitText1": "Wacht alsjeblieft minimaal ",
+            "waitText2": "seconden vooraleer je klikt op ",
+            "resendText": "Opnieuw verzenden",
+            "verify": "Verifiëren ",
+            "otp": "OTP geverifieerd",
+            "smsNotReceived": "",
+            "accVerify": "",
+            "success": "Succesvol!"
+        },
+        "loginScreen": {
+            "loginMessage": "Gelieve in te loggen om verder te gaan",
+            "logInButtonText": "LOGIN",
+            "forgotPassword": "Wachtwoord vergeten ?"
+        },
+        "registrationScreen": {
+            "registration": "Registratie",
+            "registrationText": "Maak je registratie af",
+            "firstNamePlaceholder": "Voornaam*",
+            "lastNamePlaceholder": "Familienaam*",
+            "emailPlaceholder": "E-mailadres*",
+            "newsletter": "Schrijf me in op de nieuwsbrief",
+            "password": "Wachtwoord",
+            "continue": "DOORGAAN",
+            "nextButtonText": "Volgende",
+            "submitButtonText": "Registreer",
+            "streetPlaceholder": "Straatnaam",
+            "confirmPassword": "Bevestig wachtwoord"
+        },
+        "passwordRequirments": {
+            "requirments": "Vereisten",
+            "req1": "Min 8 tekens",
+            "req2": "Minstens 1 Hoofdletter en",
+            "req3": "1 kleine letter",
+            "req4": "Numerieke tekens",
+            "req5": "Speciale tekens",
+            "req5Example": "(Zoals !, %, & of #)"
+        },
+        "welcomeScreen": {
+            "scantext": "SCAN",
+            "canceltext": "ANNULEREN",
+            "scanAlertTitle": "Om Velix te openen, scan de QR-code van je mobiliteitsaanbieder",
+            "getStartedButton": "Scan je mobiliteitsaanbieder"
+        },
+        "landingScreen": {
+            "greetTitle": "Welkom!",
+            "completeRegistration": "",
+            "greetMessage": "Vul je mobiele telefoonnummer in",
+            "mobilePlaceholder": "Mobiel nummer",
+            "countryCode": "+32",
+            "optional": "OF",
+            "facebookLogin": "Log in met Facebook",
+            "googleLogin": "Log in met google",
+            "appleLogin": "Log in met Apple",
+            "companyAccountText": "Bedrijfsaccount?",
+            "loginOption": "Log in hier",
+            "confirm": "BEVESTIGEN"
+        },
+        "onboarding": {
+            "title": "Registratie",
+            "question": "Vraag",
+            "name": "Velix",
+            "scan": "Scan",
+            "continue": "DOORGAAN"
+        },
+        "address": {
+            "title": "",
+            "street": "",
+            "near": "",
+            "city": "",
+            "pinCode": "",
+            "dob": ""
+        },
+        "documentsIdentity": {
+            "idNumber": "ID nummer*",
+            "idExpiryDate": "ID vervaldatum*",
+            "pictures": "Afbeelding",
+            "continue": "DOORGAAN"
+        },
+        "documentsDriversLicence": {
+            "drivingLicenseNumber": "Rijbewijsnummer*",
+            "pictures": "Afbeelding",
+            "continue": "DOORGAAN"
+        },
+        "termsAndCondition": {
+            "accept": "Accepteer de",
+            "termsAndCondition": "Algemene Voorwaarden*",
+            "privacyPolicy": "privacy beleid*"
+        },
+        "markerDetails": {
+            "ebike": "E-bike",
+            "docking": "Laadstations",
+            "available": "Beschikbaar:",
+            "book": "Reserveer",
+            "scanQr": "Scan QR",
+            "chargePoint": "Laadpaal",
+            "activeCharging": "Activeer een laadpaal",
+            "parking": "Beveiligde fietsparking",
+            "capacity": "Totale capaciteit: 250",
+            "lockerTitle": "",
+            "availableLocker": ": ",
+            "lockerBtnText": "",
+            "lockerSubText": ""
+        },
+        "bikePopUp": {
+            "startRent": "Start huur",
+            "ebike": "E-bike",
+            "confirm": "Bevestigen",
+            "dockModal": "Het laadstation is geopend.",
+            "countDown": "Haal je fiets uit het station binnen ",
+            "seconds": "seconden.",
+            "outOfTime": "De e-bike werd niet op tijd uit het station gehaald.",
+            "message": "Probeer het opnieuw met een andere e-bike, indien beschikbaar.",
+            "lowBattery": "Batterij van de fiets ontoerijkend",
+            "battery": "Battery:"
+        },
+        "bikeBooking": {
+            "popUpText1": "Je staat op het punt om een e-bike te reserveren.",
+            "popUpText2": "Haal je e-bike af in",
+            "popUpText3": "binnen 20 minuten.",
+            "confirm": "Bevestigen"
+        },
+        "activeBike": {
+            "activeRide": "ACTIEVE Rit",
+            "ebike": "E-bike",
+            "location": "Inleverlocatie(s)",
+            "endRide": "Beëindig rit",
+            "contact": "Contacteer helpdesk",
+            "stop": "Tijdelijke stop?",
+            "message1": "Sluit het fietsslot manueel. ",
+            "message2": "Klik op onderstaande knop om je rit verder te zetten.",
+            "openLock": "OPEN FIETSSLOT",
+            "connectLock": "",
+            "goToBLEScreen": "Go to ble",
+            "actiesSlot": "Open Slot",
+            "lockDuringRide": "Sluiten tijdens de rit?",
+            "lockGuide": "Om de fiets te sluiten tijdens de rit kan je op de knop aan de zijkant van het slot drukken en het slot manueel sluiten. Ga naar 'Slot openen' om het slot openen tijdens de rit."
+        },
+        "activeReservation": {
+            "title": "reservatie",
+            "ebike": "E-BIKE",
+            "notice": "Houd er rekening mee dat er een boete voor het verlopen van je reservering kan worden aangerekend.",
+            "okay": "Oké",
+            "chargePoint": "Laadpaal",
+            "ebikeExpired": "Uw e-bike reservatie is verlopen.",
+            "chargePointExpired": "Uw reservering voor de laadpaal is verlopen.",
+            "expiring": "Verloopt in",
+            "min": "min",
+            "seconds": "seconden"
+        },
+        "endBikeRide": {
+            "title": "Hoe je rit beëindigen:",
+            "message1": "Breng de e-bike terug naar een inleverpunt.",
+            "message2": "Plaats de fiets in een laadstation",
+            "message3": "Klaar! De rit eindigt automatisch.",
+            "buttonText": "Vind dichtstbijzijnde locatie"
+        },
+        "activeRideEnd": {
+            "title": "Wilt u uw rit beëindigen op deze afleverlocatie?",
+            "lockText": "Sluit het slot manueel.",
+            "cancelText": "Bevestig \"einde rit\" ",
+            "doneText": "Klaar! De rit wordt beëindigd.",
+            "confirmEnd": "Bevestig einde rit."
+        },
+        "kmDocking": {
+            "available": "Beschikbaar",
+            "notAvailable": "Niet beschikbaar",
+            "unlock": "Ontgrendel"
+        },
+        "movinBlue": {
+            "available": "Beschikbaar",
+            "notAvailable": "Niet beschikbaar"
+        },
+        "takeCarRentalImages": {
+            "title1": "Klik op het auto icoon en maak",
+            "title2": "Fotos van je wagen",
+            "front": "VOOR",
+            "back": "ACHTER",
+            "frontLeft": "Links voor",
+            "frontRight": "Rechts voor",
+            "backLeft": "Links achter",
+            "backRight": "Rechts achter",
+            "next": "VOLGENDE",
+            "imageCount1": "1",
+            "imageCount2": "2",
+            "imageCount3": "3",
+            "imageCount4": "4",
+            "uploadPhoto": "Foto uploaden",
+            "chooseOption": "Kies optie om te uploaden",
+            "take": "Neem een foto",
+            "gallary": "Kies uit bibliotheek",
+            "cancel": "Annuleren",
+            "success": "Foto's succesvol geüploaded",
+            "readyToUse": "De wagen is nu open en klaar voor gebruik"
+        },
+        "carRentalState": {
+            "describe": "Beschrijf de netheid van je auto",
+            "inside": "Binnenkant",
+            "outside": "Buitenkant",
+            "remarks": "Opmerkingen",
+            "continue": "DOORGAAN",
+            "endFormAlert": "Vul de staat in om uw rit te beëindigen"
+        },
+        "carRentalFinalCheck": {
+            "almostDone": "Bijna klaar!",
+            "endRideText": "Om je rit te beëindigen, kijk je eerst na of",
+            "checkBox1": "De fixed-key is aanwezig",
+            "checkBox2": "alle ramen, deuren en het koffer gesloten zijn",
+            "checkBox3": "je geen persoonlijke voorwerpen in de wagen hebt achtergelaten",
+            "checkBox4": "de sleutel zich opnieuw in het handschoenkastje bevindt",
+            "lockAndReturn": "Vergrendelen en inleveren"
+        },
+        "carRentalFeedback": {
+            "rateService": "Waardeer onze service",
+            "feedback": "Uw feedback",
+            "popUpText1": "Dank u voor uw rit.",
+            "popUpText2": "Nog een fijne dag!",
+            "confirm": "Bevestig"
+        },
+        "rideDetails": {
+            "rental": "Huur",
+            "start": "Start rit",
+            "startLocation": "Start Locatie",
+            "end": "Einde rit",
+            "endLocation": "Eind locatie",
+            "totalDuration": "Totale duur",
+            "kmTravel": "Km afgelegd",
+            "co2": "CO2 bespaard",
+            "rating": "Waardering",
+            "feedbackText": "Gegeven feedback",
+            "okay": "Oké",
+            "noRide": "Geen ritten beschikbaar!",
+            "notAvailable": "Niet beschikbaar",
+            "details": "Details",
+            "ongoing": ""
+        },
+        "walktrough": {
+            "slide1": {
+                "title": "Welkom bij Velix!",
+                "content": "Om gebruik te maken van de fietsen, moet u zich registreren onder een abonneemodel en uw krediet- of debetkaart registreren. U doet dit in uw profiel, te vinden in het menu."
+            },
+            "slide2": {
+                "title": "Available bikes and stations",
+                "content": "To find a bike, go to the map and navigate to one of the station areas. Station areas are marked in the map. By pressing the station symbol your will see the number of bikes - and available slots - per station. You can also see the name of the station number of charging docks."
+            },
+            "slide3": {
+                "title": "Start Biking",
+                "contentpara1": "When you come to the charging station please select one of the bikes and check that it does not have any damage.",
+                "contentpara2": "If a bike is parked in the charging station, you can unlock it by scanning the QR code on the station. If a bike is parked outside of the station, you can unlock it by scanning the QR code on the rear lock.",
+                "contentpara3": "If the bike does not unlock, it could be because the battery level is too low, or the bike was not parked correctly previously. In that case please select another bike and try again."
+            },
+            "slide4": {
+                "title": "During your ride",
+                "contentpara1": "You can do a temporary parking at any time. You can park your bike, and just lock the lock in the back. Always use the locking cable to attach the bike to a post or similar to avoid theft. The wire loop is locked to the rear wheel lock.",
+                "contentpara2": "To unlock the bike again, scan the QR code on the rear lock to open it. Be aware that your rental does not end automatically when you close the real lock next to the station. You have to select end rent button, to finish your rental."
+            },
+            "slide5": {
+                "title": "Ending your rental",
+                "contentpara1": "TO end the rent, you have to go to one of the stations on the map. You can end the rent by placing a bike inside of the charging station. Make sure that the bolt locks the front fork trough the pin hole. If the charging station is full, you can end the rent also by locking the bike in front of the station, by locking the rear lock, and selecting end rent option in the app.",
+                "contentpara2": "If the bike correctly placed in the station, or if you locked the rear lock correctly and selected the end rent option, you will receive a receipt in the app after 30 seconds. (You can also check your receipt in the app under 'my reservations'.) You are responsible for the correct return. If the return is not successful, you have to contact customer support or you can report a problem trough 'report a problem' link in the menu."
+            },
+            "slide6": {
+                "title": "General",
+                "content": "Please also read the terms and conditions carefully. Regularly check our website and follow our Facebook pages to get the letest updates on our activities. You are responsible for the bike when you are renting it, so please take good care of it, and stay safe."
+            },
+            "slide7": {
+                "title": "FAQ!",
+                "contentpara1": "Here are answers to other questions about the system and how to use it :",
+                "contentpara2": "Meer info",
+                "contentpara3": "App version: 1.7.7"
+            },
+            "skipButtonText": "Skip",
+            "doneButtonText": "Done"
+        },
+        "carSharing": {
+            "start": "Huur starten?",
+            "car": "auto",
+            "battery": "Batterij: 75%",
+            "confirm": "Bevestigen",
+            "lock": "",
+            "unlock": ""
+        },
+        "chargingPolePopUp": {
+            "startRent": "Huur starten?",
+            "chargingPoint": "Oplaadpunt",
+            "confirm": "Bevestigen",
+            "charging": "U bent nu aan het laden.",
+            "instruction": "Volg de instructies op de laadpaal",
+            "unable": "Kan het laden niet starten.",
+            "warning": "Zorg ervoor dat de auto op slot is en probeer opnieuw.",
+            "okay": "Oké",
+            "available": ""
+        },
+        "accessControl": {
+            "grantMessage1": "Toegang verleend.",
+            "grantMessage2": "",
+            "deniedMessage1": "Geen toegang.",
+            "deniedMessage2": "Probeer opnieuw",
+            "deniedMessage3": "of raadpleeg helpdesk",
+            "lockerDeniedMessage1": "",
+            "lockerDeniedMessage2": "",
+            "lockerDeniedMessage3": "",
+            "okay": ""
+        },
+        "chargePointBooking": {
+            "popUpText1": "U staat op het punt om een laadpaal te reserveren.",
+            "popUpText2": "Zorg ervoor dat u een oplaadstation activeert bij",
+            "popUpText3": "binnen 20 minuten.",
+            "confirm": "OK."
+        },
+        "startRentalCarState": {
+            "startFormAlert": "Vul de staat in om uw rit te starten",
+            "describe": "Beschrijf de netheid van uw auto",
+            "inside": "Binnenkant",
+            "outside": "Buitenkant",
+            "remarks": "Opmerkingen",
+            "startRide": "Start rit",
+            "youCanStart": "U kunt nu uw rit starten.",
+            "pressStart": "Druk op de startknop of neem de sleutel uit het handschoenenkastje om de auto te starten.",
+            "startAndStop": "Start / Stop",
+            "greeting": "Geniet van uw rit!",
+            "carUnlocking": "",
+            "wait": "",
+            "seconds": "",
+            "okay": "Oké"
+        },
+        "reservationDetails": {
+            "reservationNumber": "Reservatie nummer",
+            "details": "Details",
+            "start": "Start",
+            "end": "Einde",
+            "cancel": "Annuleren",
+            "modify": "Wijzig",
+            "locate": "Vind",
+            "startRent": "Start huur",
+            "modalText1": "U staat op het punt uw reservatie te annuleren.",
+            "modalText2": "Hou er rekening mee dat er annulatiekosten kunnen aangerekend worden.",
+            "confirm": "Bevestig"
+        },
+        "activeCharging": {
+            "title": "Hoe de laadsessie te beëindigen:",
+            "disconnect": "Koppel de oplaadstekker los van het voertuig.",
+            "closeText": "Bevestig het einde van de laadsessie in de app.",
+            "doneText": "Klaar! De laadsessie is afgelopen.",
+            "buttonText": "Bevestig einde laden",
+            "message": "U heeft uw laadsessie beëindigd.",
+            "charging": "Laadduur:",
+            "volume": "Volume geladen",
+            "greeting": "Nog een fijne dag!",
+            "activeCharging": "Laadsessie aan de gang",
+            "chargeStation": "Laadpaal",
+            "location": "Locatie",
+            "charged": "Opgeladen:",
+            "remains": "(Resterende laadtijd)",
+            "endCharging": "Beëindig laden",
+            "contact": "Contacteer helpdesk",
+            "cost": "Kost:",
+            "okay": "Oké"
+        },
+        "extendReservation": {
+            "startTime": "Start tijd*",
+            "endTime": "Einde tijd*",
+            "location": "Locatie",
+            "showMap": "Kaart weergeven",
+            "TypeOfVehicle": "Type voertuig",
+            "extend": "Verlengen",
+            "extensionSuccessMessage": "Verlenging succesvol!",
+            "extensionUnSuccessMessage": "Uw rit kon niet worden verlengd",
+            "okay": "Oké"
+        },
+        "companyLogin": {
+            "emailAddress": "E-mailadres",
+            "password": "Wachtwoord",
+            "passwordForgotten": "Wachtwoord vergeten?",
+            "clickHere": "Klik hier",
+            "selectOperator": "Select an operator",
+            "login": ""
+        },
+        "payment": {
+            "title": "Voltooi de registratie van uw\nbetalingsinformatie",
+            "cardUsageDisclaimer": "Als je je kaartgegevens opslaat, geef je Velix toestemming om toekomstige betalingen van je kaart af te schrijven in in overeenstemming met onze voorwaarden.",
+            "selectPaymentMethod": "Selecteer betaalmethode"
+        },
+        "newReservation": {
+            "chargePole": "Laadpaal",
+            "locate": "Vind",
+            "modify": "Wijzig",
+            "details": "Details",
+            "startRent": "Start huur",
+            "noReservation": "Geen geplande reservaties",
+            "click": "Klik hier om een reservatie aan te maken",
+            "okay": "Oké"
+        },
+        "activeCarRental": {
+            "activeRide": "Actieve rit",
+            "endRide": "Beëindig rit",
+            "extendRide": "Verleng rit",
+            "contact": "Contacteer helpdesk",
+            "stop": "Tijdelijke stop?",
+            "lock": "Sluiten",
+            "unlock": "Ontgrendel",
+            "locking": "Aan het sluiten",
+            "unlocking": "Aan het openen",
+            "keyLock": "Gelieve de sleutel te gebruiken tijdens de huur"
+        },
+        "activeRentalEnd": {
+            "rideEnd": "Uw rit is afgelopen.",
+            "rideText": "Dank u voor uw rit.",
+            "rideText1": "Nog een fijne dag!",
+            "axaLockGuide1": "Sluit het slot met de knop aan de zijkant van het slot.",
+            "axaLockGuide2": "Maak de ketting vast en sluit deze aan op het slot.",
+            "axaLockGuide3": "Klik onderaan op de knop om de rit te beëindigen. Vanuit het controlecentrum van het slot kan je deze dan afsluiten!"
+        },
+        "forgotPassword": {
+            "email": "E-mailadres",
+            "submit": "Verzenden"
+        },
+        "resetPassword": {
+            "password": "Paswoord",
+            "confirmPassword": "Bevestig paswoord",
+            "reset": "Reset"
+        },
+        "ble": {
+            "bleDev": "BLE ontwikkeling",
+            "lockType": "AXA",
+            "status": "Status message:",
+            "unlock": "Unlock",
+            "endRide": "End ride"
+        },
+        "pageTitles": {
+            "subscription": "Abonnement",
+            "monthlySubscription": "Maandelijks abonnement",
+            "wallet": "Wallet",
+            "myReservations": "Mijn reservaties",
+            "reservationDetails": "Reservatie details",
+            "stateOfTheCar": "Status wagen",
+            "newReservation": "Nieuwe reservatie",
+            "selectYourCar": "Selecteer de wagen",
+            "bookingConfirmation": "Reservatiebevestiging",
+            "finalChecks": "Finale controles",
+            "feedback": "Feedback",
+            "myRides": "Mijn ritten",
+            "rideDetails": "Detail van de rit",
+            "reportProblem": "Rapporteer een probleem",
+            "myAccountDetails": "Mijn account",
+            "carPictures": "Foto's van de wagen",
+            "extendReservation": "Verleng reservatie",
+            "topUp": "Top up",
+            "bleDevelopment": "AXA lock",
+            "subscriptions": "Abonnementen",
+            "carRentalFeedback": "Feedback",
+            "payments": "Betalingen",
+            "referral": "Doorverwijscode",
+            "paymentMethod": "Betaalmethode"
+        },
+        "deeplink": {
+            "title": "U hebt al een account.",
+            "message": "Klik op bedrijfslogin op het hoofdscherm en voer uw e-mailadres en wachtwoord in.",
+            "button": "Volgende"
+        },
+        "alert": {
+            "error": "Something went wrong",
+            "image": "Selecteer alle afbeeldingen",
+            "close": "Succesvol gesloten",
+            "response": "\nPlease provide your response",
+            "password": "Wachtwoord is bijgewerkt!",
+            "endDate": "De eindtijd kan niet voor de begintijd liggen",
+            "vehicleList": "Er zijn geen voertuigen beschikbaar voor de geselecteerde periode",
+            "feedback": "Ingezonden feedback",
+            "rating": "Geef uw waardering",
+            "expired": "Uw account is verlopen"
+        },
+        "topUpScreen": {
+            "name": "Pakketnaam",
+            "price": "Prijs",
+            "amount": "Bedrag",
+            "use": "Koop",
+            "loaderText1": "De betaling wordt uitgevoerd",
+            "loaderText2": "De betaling wordt uitgevoerd",
+            "loaderText3": "De betaling wordt uitgevoerd",
+            "wallet": "Wallet",
+            "apply": "Bevestig",
+            "paymentDone": "Betaling succesvol voltooid"
+        },
+        "validators": {
+            "emptyEmail": "Gelieve een e-mailadres in te vullen",
+            "wrongEmail": "Het e-mail formaat is verkeerd",
+            "emptyPassword": "Het paswoord is leeg",
+            "minCharacter": "Het minimaal aantal tekens is niet bereikt",
+            "caseError": "Fout!",
+            "numericError": "De waarde moet numeriek zijn",
+            "charError": "De waarde moet alfanumeriek zijn",
+            "fulfillRequirement": "Gelieve alle velden in te vullen",
+            "confirmPassword": "Bevestig paswoord",
+            "emptyField": "Niet ingevuld",
+            "streetError": "Straatnaam niet gekend",
+            "emptyNumber": "Nummer ontbreekt",
+            "wrongNumber": "Ongeldig nummer",
+            "wrongPassword": "E-mail of paswoord verkeerd"
+        },
+        "Payments": {
+            "amount": "Bedrag",
+            "timeStamp": "Tijdstip",
+            "status": "Status"
+        },
+        "referralCode": {
+            "title": "Uw doorverwijscode",
+            "code": "Foutieve doorverwijscode"
+        },
+        "walletScreen": {
+            "balance": "Huidige balans",
+            "bonus": "Ongebruikte bonussen / gifts",
+            "euro": "Euro",
+            "voucherGift": "Gift code",
+            "freeRide": "Gratis minuten",
+            "voucherNumber": "Geef uw voucher nummer in",
+            "apply": "Bevestig",
+            "voucher": "Code",
+            "paymentHistory": "Bekijk betaalgeschiedenis"
+        },
+        "topUpModal": {
+            "noMethodFound": "Betalingsmethode ongeldig",
+            "addMethodText": "U dient eerst een betaalmethode toe te voegen.",
+            "addMethodButton": "Betaalmethode toevoegen"
+        },
+        "paymentMethod": {
+            "type": "Type betaling",
+            "brand": "Merk kaart",
+            "expiry": "Vervaldatum",
+            "digits": "Laatste 4 cijfers",
+            "remove": "Verwijder",
+            "noPayments": "Geen betaalmethode beschikbaar",
+            "add": "Toevoegen",
+            "confirmation": "Bent u zeker?",
+            "note": "Bevestig om de betaalmethode te verwijderen."
+        }
+    }

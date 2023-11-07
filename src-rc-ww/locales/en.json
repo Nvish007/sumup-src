@@ -1,0 +1,674 @@
+{
+    "global": {
+        "english": "English",
+        "france": "French",
+        "dutch": "Nederlands",
+        "magyar": "Magyar"
+    },
+    "drawerContent": {
+        "myAccount": "My account",
+        "payments": "Payments",
+        "myRides": "My rides",
+        "wallet": "Wallet & payments",
+        "myReservation": "My reservations",
+        "bookVehicle": "Book a vehicle",
+        "topUp": "Top up",
+        "subscription": "Subscription",
+        "support": "Support",
+        "documents": "Documents",
+        "about": "About",
+        "AccountDeactivate": "Delete My Account",
+        "delete": "Delete your account?",
+        "deleteConfirmation": "This would delete your personal data from our system",
+        "logout": "Logout",
+        "ble": "Ble",
+        "referral": "Referral code",
+        "damage": "Damage report",
+        "paymentMethod": "Payment method",
+        "yes": "Yes",
+        "cancel": "Cancel",
+        "confirm": "Conform a Logout ?"
+    },
+    "homeScreen": {
+        "buttonText": "Scan QR"
+    },
+    "profileScreen": {
+        "language": "Language:",
+        "document": "Documents:",
+        "drivingLicence": "Driving licence",
+        "paymentMethod": "Payment methods:",
+        "noPayments": "No payment method available",
+        "add": "Add",
+        "passwordPlaceholder": "Change password",
+        "confirmPasswordPlaceholder": "Confirm changed password",
+        "save": "Save",
+        "select": "Select one",
+        "emailPlaceholder": "Email",
+        "firstNamePlaceholder": "First Name",
+        "lastNamePlaceholder": "Last Name",
+        "mobileNumberPlaceholder": "Mobile Number",
+        "updateButtonText": "Update Profile",
+        "enterPassword": "Enter password"
+    },
+    "supportScreen": {
+        "titleText": "Need a hand?",
+        "contact": "Contact Our support desk:",
+        "emailText": "E-MAIL",
+        "chat": "Chat",
+        "text1": "Check our",
+        "text2": "FAQ's",
+        "text3": "Or watch the app",
+        "text4": "tutorial"
+    },
+    "damageReport": {
+        "attachImage": "Attach Images"
+    },
+    "reservationsScreen": {
+        "Starttime": "Start time*",
+        "endtime": "End time*",
+        "location": "Location",
+        "vehicle": "Type of vehicle",
+        "map": "Show map",
+        "search": "Search"
+    },
+    "subscriptionScreen": {
+        "listTitle1": "Start Date: ",
+        "listTitle2": "End Date: ",
+        "listTitle3": "Period: ",
+        "renewedDetails": "This subscription will be renewed until terminated.",
+        "subscriptionCancelText": "Cancel Subscription",
+        "tripsTexts": "Some information about the subscription"
+    },
+    "subscribeScreen": {
+        "listTitle1": "Off season pass",
+        "listSubTitle1": "... / month",
+        "listContent1": "Get a bike for yourself, only you are renting the bike. subscription includes battery charger and you can park where you want :)",
+        "listTitle2": "Pay as you go",
+        "listSubTitle2": "Enjoy a bike for short trips whenever you want! .. NOK per minute",
+        "listContent2": "After 1 hour increases to .. per minute",
+        "listTitle3": "Monthly subscription",
+        "listSubTitle3": "... / month",
+        "listContent3": "For those who want to enjoy a bike regularly! You get 10 minutes of riding credit per rent, 2 ... per minute after this credit it used. After 60 Minutes, this increases to 5 ... per minute Renews automatically every month.",
+        "nextButtonTexts": "Next One"
+    },
+    "confirmSubscription": {
+        "listTitle1": "Initial Fee: ",
+        "listTitle2": "Recurrent fee: ",
+        "listTitle3": "Period: : ",
+        "renewedDetails": "This subscription will be renewed until terminated.",
+        "renewedDetails2": "To activate this subscription you will have to connect your creditcard secured with your account.",
+        "tripsTexts": "For those who want to enjoy a ... Bike regularly! You get 10 minutes of riding credit per rent, 2 ... per minute after this credit is used. After 60 minutes, this increases to 5 ... per minute Renews automatically every month.",
+        "confirmButtonText": "Confirm"
+    },
+    "reportProblemScreen": {
+        "problemDetailText": "Fill out the form below to let us know if you experience any problems or Problems with your bike. Please use a number from the image as a reference to show where the problem is.",
+        "bikeNamePlaceholder": "Asset Name",
+        "textareaPlaceholder": "Content",
+        "submitButtonText": "Submit"
+    },
+    "searchScreen": {
+        "titleText": "Enter the identification number",
+        "textDiscription": "Choose a bike and enter the last 6 digits of its parking dock code to unlock it.",
+        "placeHolderText": "e.g. 123456",
+        "headerTitle": "Search",
+        "continue": "CONTINUE"
+    },
+    "phoneVerificationScreen": {
+        "verifyText": "Verify account",
+        "numberVerification": "Number Verification",
+        "smsText": "We have sent an SMS with a code to",
+        "smsVerifyText": "Enter this code to verify your mobile number",
+        "waitText1": "Please wait at least",
+        "waitText2": "sec before hitting",
+        "resendText": "Resend",
+        "verify": "Verify",
+        "otp": "OTP verified",
+        "smsNotReceived": "Didn't receive an SMS?",
+        "accVerify": "Account verification",
+        "success": "Successfully!"
+    },
+    "walletScreen": {
+        "balance": "Current balance:",
+        "bonus": "Unused bonuses/gifts:",
+        "euro": "euro",
+        "voucherGift": "Gift voucher referral code?",
+        "freeRide": "free ride minutes",
+        "voucherNumber": "Enter voucher number below:",
+        "apply": "Apply",
+        "voucher": "Voucher Code",
+        "paymentHistory": "Check payment history" 
+    },
+    "loginScreen": {
+        "loginMessage": "Please login to continue",
+        "logInButtonText": "LOGIN",
+        "forgotPassword": "Forgot Password ?"
+    },
+    "registrationScreen": {
+        "registration": "Registration",
+        "registrationText": "Complete your registration",
+        "firstNamePlaceholder": "First name*",
+        "lastNamePlaceholder": "Last name*",
+        "emailPlaceholder": "Email address*",
+        "newsletter": "Subscribe to our newsletter",
+        "password": "Password",
+        "continue": "CONTINUE",
+        "nextButtonText": "Next",
+        "submitButtonText": "Register",
+        "streetPlaceholder": "Your Street",
+        "confirmPassword": "Confirm Password"
+    },
+    "passwordRequirments": {
+        "requirments": "Requirments",
+        "req1": "Min 8 characters",
+        "req2": "At least one Uppercase and",
+        "req3": "lowercase letter",
+        "req4": "Numeric characters",
+        "req5": "Special characters",
+        "req5Example": "(Such as !,%,@ or #)"
+    },
+    "welcomeScreen": {
+        "scantext": "SCAN",
+        "canceltext": "CANCEL",
+        "scanAlertTitle": "To enter Velix, please scan the QR code of your mobility provider",
+        "getStartedButton": "Scan your mobility provider"
+    },
+    "landingScreen": {
+        "greetTitle": "Welcome!",
+        "completeRegistration": "Complete your registration",
+        "greetMessage": "Enter your Mobile phone number",
+        "mobilePlaceholder": "Mobile number",
+        "countryCode": "+32",
+        "optional": "OR",
+        "facebookLogin": "Login with Facebook",
+        "googleLogin": "Connect with google",
+        "appleLogin": "Sign in with Apple",
+        "companyAccountText": "Company account ?",
+        "loginOption": "Log in here",
+        "confirm": "CONFIRM"
+    },
+    "onboarding": {
+        "title": "Onboarding",
+        "question": "Question",
+        "name": "Wow Mobility",
+        "scan": "Scan",
+        "continue": "CONTINUE"
+    },
+    "address": {
+        "title": "Address:",
+        "street": "Street*",
+        "near": "Nr*",
+        "city": "City*",
+        "pinCode": "Postal code*",
+        "dob": "Date of birth*"
+    },
+    "documentsIdentity": {
+        "idNumber": "ID number*",
+        "idExpiryDate": "ID expiry date*",
+        "pictures": "Pictures",
+        "continue": "CONTINUE"
+    },
+    "documentsDriversLicence": {
+        "drivingLicenseNumber": "Driving license number*",
+        "pictures": "Pictures",
+        "continue": "CONTINUE",
+        "document": "Document Drivers Licence!"
+    },
+    "termsAndCondition": {
+        "accept": "Accept the",
+        "termsAndCondition": "general Terms & Conditions*",
+        "privacyPolicy": "privacy policy*"
+    },
+    "markerDetails": {
+        "ebike": "Available e-bikes:",
+        "docking": "Available docking stations:",
+        "available": "Available 11 kW stations: 2",
+        "book": "Book",
+        "parking": "Secure bike parking",
+        "capacity": "Total capacity: 250",
+        "scanQr": "Scan QR",
+        "chargePoint": "Charging point",
+        "activeCharging": "Activate a charging station",
+        "lockerTitle": "Lockers",
+        "availableLocker": "Available: ",
+        "lockerBtnText": "Scan a locker",
+        "lockerSubText": "Scan a free locker to start your rent"
+    },
+    "bikePopUp": {
+        "startRent": "Start Rent",
+        "ebike": "E-bike",
+        "confirm": "Confirm",
+        "dockModal": "The docking has opened.",
+        "countDown": "Please take out your bike within",
+        "seconds": "seconds.",
+        "outOfTime": "The e-bike was not taken out in time.",
+        "message": "Please try again with another e-bike, if available.",
+        "lowBattery": "Bike out of battery",
+        "battery": "Battery:"
+    },
+    "bikeBooking": {
+        "popUpText1": "You are about to book an e-bike.",
+        "popUpText2": "Please pick up your bike at",
+        "popUpText3": "within 20 minutes.",
+        "confirm": "Confirm"
+    },
+    "activeBike": {
+        "activeRide": "ACTIVE Ride",
+        "ebike": "E-bike",
+        "location": "Drop-off Location(s)",
+        "endRide": "End ride",
+        "contact": "Contact support",
+        "stop": "Temporary stop?",
+        "message1": "Manually close the e-bike lock. ",
+        "message2": "Click the button below to continue your ride.",
+        "openLock": "OPEN BIKE lock",
+        "connectLock": "Connect to lock",
+        "goToBLEScreen": "Go to ble",
+        "actiesSlot": "Unlock",
+        "lockDuringRide": "Lock during ride?",
+        "lockGuide": "To lock the bike during your ride you can push the button on the side of the lock and close the lock manually. Go to 'Connect to lock' to unlock again!"
+    },
+    "activeReservation": {
+        "title": "reservation",
+        "ebike": "E-BIKE",
+        "notice": "Please be advised that an expiration penalty may be charged.",
+        "okay": "Okay",
+        "chargePoint": "Charging point",
+        "ebikeExpired": "Your e-bike reservation has expired.",
+        "chargePointExpired": "Your charging station reservation has expired.",
+        "expiring": "",
+        "min": "",
+        "seconds": ""
+    },
+    "endBikeRide": {
+        "title": "How to end your ride:",
+        "message1": "Bring the e-bike back to a drop-off location.",
+        "message2": "Place the bike in a docking station",
+        "message3": "Done! The ride ends automatically.",
+        "buttonText": "Find nearest location"
+    },
+    "activeRideEnd": {
+        "title": "Do you wish to end your ride in this drop-off location?",
+        "lockText": "Manually close the e-bike lock.",
+        "cancelText": "Confirm \"end ride\" ",
+        "doneText": "Done! The ride ends.",
+        "confirmEnd": "Confirm end ride"
+    },
+    "kmDocking": {
+        "available": "Available",
+        "notAvailable": "Not Available",
+        "unlock": "Unlock"
+    },
+    "movinBlue": {
+        "available": "Available",
+        "notAvailable": "Not Available"
+    },
+    "takeCarRentalImages": {
+        "title1": "Click on the car icon and make the",
+        "title2": "Photos of your car",
+        "front": "FRONT",
+        "back": "BACK",
+        "frontLeft": "Front left",
+        "frontRight": "Front right",
+        "backLeft": "Back left",
+        "backRight": "Back right",
+        "next": "NEXT",
+        "imageCount1": "1",
+        "imageCount2": "2",
+        "imageCount3": "3",
+        "imageCount4": "4",
+        "uploadPhoto": "Upload Photo",
+        "chooseOption": "Choose option to upload",
+        "take": "Take Photo",
+        "gallary": "Choose From Library",
+        "cancel": "Cancel",
+        "success": "Photos successfully uploaded",
+        "readyToUse": "The car is now open and ready for use"
+    },
+    "reportLocker": {
+        "describe": "Describe the cleanliness of the locker",
+        "remarks": "Remarks",
+        "continue": "CONTINUE",
+        "endFormAlert": "Please fill in as much information as possible"
+    },
+    "carRentalState": {
+        "describe": "Describe the cleanliness from your car",
+        "inside": "Inside",
+        "outside": "Outside",
+        "remarks": "Remarks",
+        "continue": "CONTINUE",
+        "endFormAlert": "Please fill in the damage form to end your ride"
+    },
+    "carRentalFinalCheck": {
+        "almostDone": "Almost done!",
+        "endRideText": "To end your ride, make sure that",
+        "checkBox1": "the engine is turned off",
+        "checkBox2": "all windows, doors and the trunk are closed",
+        "checkBox3": "you have exicted the car with your personal belongings",
+        "checkBox4": "the key is on the key holder in the glove compartment",
+        "lockAndReturn": "Lock and return car"
+    },
+    "carRentalFeedback": {
+        "rateService": "Rate our service",
+        "feedback": "Your feedback",
+        "popUpText1": "Thank you for your ride.",
+        "popUpText2": "Have a nice day!",
+        "confirm": "Confirm"
+    },
+    "rideDetails": {
+        "rental": "Rental",
+        "start": "Start",
+        "startLocation": "Start Location",
+        "end": "End",
+        "notAvailable":"Not Available",
+        "endLocation": "End Location",
+        "totalDuration": "Total Duration",
+        "kmTravel": "Km traveled",
+        "co2": "CO2 saved",
+        "rating": "Rating",
+        "feedbackText": "Provided Feedback",
+        "okay": "Okay",
+        "noRide": "No rides available!",
+        "details": "Details",
+        "ongoing": "ONGOING"
+    },
+    "walktrough": {
+        "slide1": {
+            "title": "Welcome to Velix!",
+            "content": "To use the bikes, you need to register under a subscriber model and register your credit or debit card. You may do that in your profile that can be found in the menu or by pressing the person icon on the top right of the screen."
+        },
+        "slide2": {
+            "title": "Available bikes and stations",
+            "content": "To find a bike, go to the map and navigate to one of the station areas. Station areas are marked in the map. By pressing the station symbol your will see the number of bikes - and available slots - per station. You can also see the name of the station number of charging docks."
+        },
+        "slide3": {
+            "title": "Start Biking",
+            "contentpara1": "When you come to the charging station please select one of the bikes and check that it does not have any damage.",
+            "contentpara2": "If a bike is parked in the charging station, you can unlock it by scanning the QR code on the station. If a bike is parked outside of the station, you can unlock it by scanning the QR code on the rear lock.",
+            "contentpara3": "If the bike does not unlock, it could be because the battery level is too low, or the bike was not parked correctly previously. In that case please select another bike and try again."
+        },
+        "slide4": {
+            "title": "During your ride",
+            "contentpara1": "You can do a temporary parking at any time. You can park your bike, and just lock the lock in the back. Always use the locking cable to attach the bike to a post or similar to avoid theft. The wire loop is locked to the rear wheel lock.",
+            "contentpara2": "To unlock the bike again, scan the QR code on the rear lock to open it. Be aware that your rental does not end automatically when you close the real lock next to the station. You have to select end rent button, to finish your rental."
+        },
+        "slide5": {
+            "title": "Ending your rental",
+            "contentpara1": "TO end the rent, you have to go to one of the stations on the map. You can end the rent by placing a bike inside of the charging station. Make sure that the bolt locks the front fork trough the pin hole. If the charging station is full, you can end the rent also by locking the bike in front of the station, by locking the rear lock, and selecting end rent option in the app.",
+            "contentpara2": "If the bike correctly placed in the station, or if you locked the rear lock correctly and selected the end rent option, you will receive a receipt in the app after 30 seconds. (You can also check your receipt in the app under 'my reservations'.) You are responsible for the correct return. If the return is not successful, you have to contact customer support or you can report a problem trough 'report a problem' link in the menu."
+        },
+        "slide6": {
+            "title": "General",
+            "content": "Please also read the terms and conditions carefully. Regularly check our website and follow our Facebook pages to get the letest updates on our activities. You are responsible for the bike when you are renting it, so please take good care of it, and stay safe."
+        },
+        "slide7": {
+            "title": "FAQ!",
+            "contentpara1": "Here are answers to other questions about the system and how to use it :",
+            "contentpara2": "FAQ",
+            "contentpara3": "App version: 1.7.7"
+        },
+        "skipButtonText": "Skip",
+        "doneButtonText": "Done"
+    },
+    "carSharing": {
+        "start": "Start rent?",
+        "car": "car",
+        "battery": "Battery: 75%",
+        "confirm": "Confirm",
+        "lock": "Lock",
+        "unlock": "Unlock"
+    },
+    "chargingPolePopUp": {
+        "startRent": "Start charging",
+        "chargingPoint": "Charging point",
+        "confirm": "Confirm",
+        "charging": "You are now charging.",
+        "instruction": "Please follow the instruction on the charging station.",
+        "unable": "Unable to start charging.",
+        "warning": "Make sure your car is locked and try again.",
+        "okay": "Okay",
+        "available": "Available"
+    },
+    "accessControl": {
+        "grantMessage1": "Access granted.",
+        "grantMessage2": "Please enter.",
+        "deniedMessage1": "Access denied.",
+        "deniedMessage2": "Please try again",
+        "deniedMessage3": "or consult support",
+        "lockerDeniedMessage1": "The locker",
+        "lockerDeniedMessage2": "you have scanned is not available",
+        "lockerDeniedMessage3": "Please try another locker",
+        "okay": "Okay"
+    },
+    "chargePointBooking": {
+        "popUpText1": "You are about to book a charging station.",
+        "popUpText2": "Please make sure to activate a charging station at",
+        "popUpText3": "within 20 minutes.",
+        "confirm": "Confirm"
+    },
+    "startRentalCarState": {
+        "startFormAlert": "Please fill in the damage form to start your ride",
+        "describe": "Describe the cleanliness from your car",
+        "inside": "Inside",
+        "outside": "Outside",
+        "remarks": "Remarks",
+        "startRide": "Start Ride",
+        "youCanStart": "You can now start your ride.",
+        "pressStart": "Press the start button or take the key from the glove compartment to start the car.",
+        "greeting": "Have a nice ride!",
+        "carUnlocking": "The car is being unlocked",
+        "wait": "Please wait",
+        "seconds": "seconds",
+        "okay": "Okay"
+    },
+    "reservationDetails": {
+        "reservationNumber": "Reservation number",
+        "details": "Details",
+        "start": "Start",
+        "end": "End",
+        "cancel": "Cancel",
+        "modify": "Modify",
+        "locate": "Locate",
+        "startRent": "Start Rent",
+        "modalText1": "You are about to cancel your reservation.",
+        "modalText2": "Please be advised that a cancellation fee may be charged.",
+        "confirm": "Confirm"
+    },
+    "activeCharging": {
+        "title": "How to end the charging session:",
+        "disconnect": "Disconnect the charging plug from the vehicle.",
+        "closeText": "Confirm the end of the charging session in the app.",
+        "doneText": "Done! The charging session ends.",
+        "buttonText": "Confirm end charging",
+        "message": "You have ended your charging session.",
+        "charging": "Charging duration: ",
+        "volume": "Volume charged: ",
+        "greeting": "Have a nice day!",
+        "activeCharging": "Active charging",
+        "chargeStation": "Charging station",
+        "location": "Location",
+        "charged": "Charged:",
+        "remains": "(Remaining charging time)",
+        "endCharging": "End Charging",
+        "contact": "Contact support",
+        "cost": "Cost: ",
+        "okay": "Okay"
+    },
+    "extendReservation": {
+        "startTime": "Start time*",
+        "endTime": "End time*",
+        "location": "Location",
+        "showMap": "Show map",
+        "TypeOfVehicle": "Type of vehicle",
+        "extend": "Extend",
+        "extensionSuccessMessage": "Extension successfull!",
+        "extensionUnSuccessMessage": "Your ride could not be extended",
+        "okay": "Okay"
+    },
+    "companyLogin": {
+        "emailAddress": "Email Adddress",
+        "password": "Password",
+        "passwordForgotten": "Password forgotten?",
+        "clickHere": "Click here",
+        "selectOperator": "Select an operator",
+        "login": "LOGIN"
+    },
+    "payment": {
+        "title": "Complete the registration of your\npayment information",
+        "cardUsageDisclaimer": "If you save your card information, you\nauthorise Velix to charge\nfuture payments to your card in\naccordance with our terms and\nconditions.",
+        "selectPaymentMethod": "Select Payment Method "
+    },
+    "newReservation": {
+        "chargePole": "Charging Pole",
+        "locate": "Locate",
+        "modify": "Modify",
+        "details": "Details",
+        "startRent": "Start Rent",
+        "noReservation": "No Reservations found",
+        "click": "Click here to make a reservation",
+        "okay": "Okay"
+    },
+    "activeCarRental": {
+        "activeRide": "Active ride",
+        "endRide": "End ride",
+        "extendRide": "Extend ride",
+        "contact": "Contact support",
+        "stop": "Temporary stop?",
+        "lock": "Lock",
+        "unlock": "Unlock",
+        "locking": "Locking",
+        "unlocking": "Unlocking",
+        "keyLock": "Please use the key to open and lock during the ride"
+    },
+    "activeRentalEnd": {
+        "rideEnd": "Your ride has ended.",
+        "rideText": "Thank you for your ride.",
+        "rideText1": "Have a nice day!",
+        "axaLockGuide1": "Push the button on the side of the lock and close the lock manually",
+        "axaLockGuide2": "Close also the chain",
+        "axaLockGuide3": "Go to 'End ride' and select on the lock control center the 'end ride'"
+    },
+    "forgotPassword": {
+        "email": "Email address",
+        "submit": "Submit"
+    },
+    "resetPassword": {
+        "password": "Password",
+        "confirmPassword": "Confirm Password",
+        "reset": "Reset"
+    },
+    "ble": {
+        "bleDev": "BLE Development",
+        "lockType": "AXA",
+        "status": "Status message:",
+        "unlock": "Unlock",
+        "endRide": "End ride"
+    },
+    "Payments": {
+        "amount": "Amount",
+        "timeStamp": "Timestamp",
+        "status": "status"
+    },
+    "referralCode": {
+        "title": "Your referral code",
+        "code": "Invalid referral"
+    },
+    "pageTitles": {
+        "subscription": "Subscription",
+        "monthlySubscription": "Monthly subscription",
+        "wallet": "Wallet & payments",
+        "myReservations": "My Reservations",
+        "reservationDetails": "Reservation details",
+        "stateOfTheCar": "State of the car",
+        "newReservation": "New reservation",
+        "selectYourCar": "Select your car",
+        "bookingConfirmation": "Booking confirmation",
+        "finalChecks": "Final checks",
+        "feedback": "Feedback",
+        "myRides": "My rides",
+        "rideDetails": "Ride details",
+        "reportProblem": "Damage report",
+        "myAccountDetails": "My account details",
+        "carPictures": "carPictures",
+        "extendReservation": "Extend reservation",
+        "topUp": "Top up",
+        "bleDevelopment": "AXA lock",
+        "subscriptions": "Subscriptions",
+        "carRentalFeedback": "Feedback",
+        "paymentMethod": "Payment method",
+        "payments": "Payments",
+        "referral": "Referral code",
+        "reportLocker": "Report locker issue"
+    },
+    "bookingConfirmation": {
+        "details": "Details",
+        "start": "Start",
+        "end": "End",
+        "confirm": "CONFIRM",
+        "reservationSucces": "Reservation successfull!",
+        "okay": "Okay"
+    },
+    "deeplink": {
+        "title": "You have already an account.",
+        "message": "Click on company login on the mainscreen and enter your e-mailaddress and password.",
+        "button": "Continue"
+    },
+    "alert": {
+        "error": "Something went wrong",
+        "image": "Please select all images",
+        "close": "Closed succesful",
+        "response": "Please provide your response",
+        "password": "Password has been updated!",
+        "endDate": "End time can not be before start time",
+        "vehicleList": "There aren't vehicles available for the selected period",
+        "feedback": "Feedback Submitted",
+        "rating": "Please provide your rating",
+        "expired": "Your account has been expired"
+    },
+    "topUpScreen": {
+        "name": "Name",
+        "price": "Price",
+        "amount": "Amount",
+        "use": "Use",
+        "loaderText1": "Creating payment Intent...",
+        "loaderText2": "Checking payment intent response...",
+        "loaderText3": "Confirming payment for bancontact...",
+        "paymentDone": "Payment done successfully",
+        "packageName": "Package name",
+        "rideLength": "Max number of ride minutes: 45",
+        "ridePrice": "Price per ride minute: 0,20 p/m",
+        "newInvite": "Invite new user",
+        "inviteInfo": "Invite a new user and gain 5 free ride minutes! The free minutes will be added to your account automatically after the invited user's first ride."
+    },
+    "topUpModal": {
+        "noMethodFound": "Payment method not found",
+        "addMethodText": "You have to add payment method first to topUp your wallet",
+        "addMethodButton": "Add payment method"
+    },
+    "validators": {
+        "emptyEmail": "The e-mailaddress is empty", 
+        "wrongEmail": "E-mail format wrong",
+        "emptyPassword": "Password empty",
+        "wrongPassword": "E-mail or password wrong",
+        "minCharacter": "Minimum characters",
+        "caseError": "Error",
+        "numericError": "Numeric error",
+        "charError": "Character error",
+        "fulfillRequirement": "Requirements not met",
+        "confirmPassword": "Confirm password",
+        "emptyField": "Empty field",
+        "streetError": "StreetError",
+        "emptyNumber": "Number empty",
+        "wrongNumber": "Number wrong"
+    },
+    "paymentMethod": {
+        "type": "Payment type",
+        "brand": "Card brand",
+        "expiry": "Expiry",
+        "digits": "Last 4 digit",
+        "remove": "Remove",
+        "noPayments": "No payment method available",
+        "add": "Add",
+        "confirmation": "Are you sure?",
+        "note": "Press yes to remove payment method."
+    }
+}

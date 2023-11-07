@@ -1,0 +1,657 @@
+{
+    "global": {
+        "english": "Angol",
+        "france": "Francia",
+        "dutch": "Holland",
+        "magyar": "Magyar"
+    },
+    "drawerContent": {
+        "myAccount": "Fiókom",
+        "payments": "Fizetések",
+        "myRides": "Bérlésim",
+        "myReservation": "Foglalásaim",
+        "bookVehicle": "Foglalás",
+        "topUp": "Feltöltés",
+        "subscription": "Előfizetési csomag",
+        "support": "Támogatás",
+        "documents": "Dokumentumok",
+        "about": "Rólunk",
+        "AccountDeactivate": "Delete My Account",
+        "delete": "Delete your account?",
+        "deleteConfirmation": "This would delete your personal data from our system",
+        "logout": "Kilépés",
+        "ble": "BLE",
+        "damage": "Damage report",
+        "referral": "Referral code",
+        "paymentMethod": "Payment method",
+        "yes": "Igen",
+        "cancel": "Vissza",
+        "confirm": "Kilépés megerősítése"
+    },
+    "homeScreen": {
+        "buttonText": "Beolvasás"
+    },
+    "profileScreen": {
+        "language": "Nyelv",
+        "document": "Dokumentumok:",
+        "drivingLicence": "",
+        "paymentMethod": "",
+        "noPayments": "",
+        "add": "",
+        "passwordPlaceholder": "Jelszó módosítása",
+        "confirmPasswordPlaceholder": "Módosított jelszó megerősítése",
+        "save": "Mentés",
+        "select": "Válasz egyet",
+        "emailPlaceholder": "Email",
+        "firstNamePlaceholder": "Keresztnév",
+        "lastNamePlaceholder": "Családi név",
+        "mobileNumberPlaceholder": "Mobil",
+        "updateButtonText": "Profil frissítése",
+        "enterPassword": "Add meg a jelszót"
+    },
+    "supportScreen": {
+        "titleText": "Segítség kell?",
+        "contact": "Hívd az ügyfélszolgálatot:",
+        "emailText": "E-Mail",
+        "chat": "Chat",
+        "text1": "Nézze meg a",
+        "text2": "GYIK-et,",
+        "text3": "vagy tekintse át az alkalmazás",
+        "text4": "útmutatót."
+    },
+    "damageReport": {
+        "attachImage": ""
+    },
+    "reservationsScreen": {
+        "Starttime": "Kezdés",
+        "endtime": "Vége",
+        "location": "Hely",
+        "vehicle": "Jármű típusa",
+        "map": "Mutasd a térképet",
+        "search": "Keresés"
+    },
+    "subscriptionScreen": {
+        "listTitle1": " Kezdet dátuma: ",
+        "listTitle2": "Vége dátum: ",
+        "listTitle3": "Időtartam: ",
+        "renewedDetails": "Az előfizetés megújul folyamatosan amíg nincs lemondva.",
+        "subscriptionCancelText": "Előfizetés lemondása",
+        "tripsTexts": "Információk az előfizetésről"
+    },
+    "subscribeScreen": {
+        "listTitle1": "Csúcsidőn kívüli jegy",
+        "listSubTitle1": ".../hó",
+        "listContent1": "Legyen saját bringád, csak a bringát kölcsönzöd. Az előfizetés tartalmazza a töltést és ott zárod le a bringát ahol akarod.:)",
+        "listTitle2": "Használat arányos fizetés",
+        "listSubTitle2": "Használd rövid távokra amikor akarod! .. NOK percenként",
+        "listContent2": "1 óra fölött a díj ../percre növekszik",
+        "listTitle3": "Havi előfizetés",
+        "listSubTitle3": ".../hó",
+        "listContent3": "Azoknak, akik rendszeresen akarják használni. 10 percet kapsz minden használat után. 2 ... percenként, amint ez a kedvezményt elhasználtad. 60 perc után ez 5 ... percenkéntire változik. Minden hónapban automatikusan megújul.",
+        "nextButtonTexts": "Következő"
+    },
+    "confirmSubscription": {
+        "listTitle1": "Belépési díj: ",
+        "listTitle2": "Megújuló díj: ",
+        "listTitle3": "Időtartam: : ",
+        "renewedDetails": "Az előfizetés megújul folyamatosan amíg nincs lemondva.",
+        "renewedDetails2": "Az előfizetés aktiválásához a bankkártyádat hozzá kell kapcsolni a fiókodhoz.",
+        "tripsTexts": "Azoknak, akik rendszeresen akarják használni. 10 percet kapsz minden használat után. 2 ... percenként, amint ez a kedvezményt elhasználtad. 60 perc után ez 5 ... percenkéntire változik. Minden hónapban megújul.",
+        "confirmButtonText": "Megerősítés"
+    },
+    "reportProblemScreen": {
+        "problemDetailText": "Töltsd ki ezt az űrlapot, ha a bringával valami probléma van. Használd a képen látható számokat a probléma helyének megadásához.",
+        "bikeNamePlaceholder": "Kerékpár neve",
+        "textareaPlaceholder": "Tartalom",
+        "submitButtonText": "Küldés"
+    },
+    "searchScreen": {
+        "titleText": "Add meg az azonosítót",
+        "textDiscription": "Válassz egy bringát és add meg az utolsó 6 számjegyét a dokkolónak, hogy ki tudd venni.",
+        "placeHolderText": "pl. 123456",
+        "headerTitle": "Keresés",
+        "continue": "FOLYTATÁS"
+    },
+    "phoneVerificationScreen": {
+        "verifyText": "Fiók ellenőrzése",
+        "numberVerification": "Szám ellenőrzése",
+        "smsText": "Küldtünk egy SMS-t egy kóddal a ",
+        "smsVerifyText": "Add meg a kapott kódot a mobilszám ellenőrzéséhez!",
+        "waitText1": "Kérlek várj legalább",
+        "waitText2": "másodpercet mielőtt megadod",
+        "resendText": "Újraküldés",
+        "verify": "Ellenőrizd",
+        "otp": "Telefonszáma sikeresen ",
+        "smsNotReceived": "",
+        "accVerify": "",
+        "success": "ellenőrizve!"
+    },
+    "walletScreen": {
+        "balance": "",
+        "bonus": "",
+        "euro": "",
+        "voucherGift": "",
+        "freeRide": "",
+        "voucherNumber": "",
+        "apply": "",
+        "voucher": "",
+        "paymentHistory": "" 
+    },
+    "loginScreen": {
+        "loginMessage": "Lépj be a folytatáshoz!",
+        "logInButtonText": "BELÉPÉS",
+        "forgotPassword": "Elfelejtette a jelszót?"
+    },
+    "registrationScreen": {
+        "registration": "Regisztráció",
+        "registrationText": "Regisztráció befejezése",
+        "firstNamePlaceholder": "Keresztnév",
+        "lastNamePlaceholder": "Családnév",
+        "emailPlaceholder": "Email cím",
+        "newsletter": "Hírlevél feliratkozás",
+        "password": "Jelszó",
+        "continue": "TOVÁBB",
+        "nextButtonText": "Tovább",
+        "submitButtonText": "Regisztráció",
+        "streetPlaceholder": "Utcanév",
+        "confirmPassword": "Jelszó megerősítése"
+    },
+    "passwordRequirments": {
+        "requirments": "Követelmények",
+        "req1": "Min 8 karakter",
+        "req2": "Legalább 1 nagybetű, ",
+        "req3": "kisbetű ",
+        "req4": "Számok ",
+        "req5": "Különleges karakterek ",
+        "req5Example": "(Például !, %,&, #)"
+    },
+    "welcomeScreen": {
+        "scantext": "BEOLVASÁS",
+        "canceltext": "TÖRLÉS",
+        "scanAlertTitle": "A Pannon-Wow használatához szkennelje be a szolgáltatója QR kódját!",
+        "getStartedButton": "Olvassa be a szolgáltatója QR kódját!"
+    },
+    "landingScreen": {
+        "greetTitle": "Üdvözlünk!",
+        "completeRegistration": "",
+        "greetMessage": "Add meg a mobilszámod!",
+        "mobilePlaceholder": "Mobilszám",
+        "countryCode": "+36",
+        "optional": "VAGY",
+        "facebookLogin": "Belépés Facebookkal",
+        "googleLogin": "Csatlakozás Google fiókkal",
+        "appleLogin": "Csatlakozás Apple fiókkal",
+        "companyAccountText": "Céges fiók?",
+        "loginOption": "Belépés itt",
+        "confirm": "MEGERŐSÍTÉS"
+    },
+    "onboarding": {
+        "title": "Beszállás",
+        "question": "Kérdés?",
+        "name": "Pannon Wow",
+        "scan": "Beolvasás",
+        "continue": "FOLYTATÁS"
+    },
+    "address": {
+        "title": "",
+        "street": "",
+        "near": "",
+        "city": "",
+        "pinCode": "",
+        "dob": ""
+    },
+    "documentsIdentity": {
+        "idNumber": "Igazolvány száma*",
+        "idExpiryDate": "Igazolvány érvényessége*",
+        "pictures": "Képek",
+        "continue": "FOLYTATÁS"
+    },
+    "documentsDriversLicence": {
+        "drivingLicenseNumber": "Vezetői engedély száma*",
+        "pictures": "Képek",
+        "continue": "FOLYTATÁS",
+        "document": ""
+    },
+    "termsAndCondition": {
+        "accept": "Az ÁSZF ",
+        "termsAndCondition": "elfogadása*",
+        "privacyPolicy": "Személyes adatok kezelése*"
+    },
+    "markerDetails": {
+        "ebike": "",
+        "docking": "",
+        "available": "",
+        "book": "",
+        "parking": "",
+        "capacity": "",
+        "scanQr": "QR kód beolvasás",
+        "chargePoint": "Töltőállomás",
+        "activeCharging": "Töltőállomás aktiválása",
+        "lockerTitle": "",
+        "availableLocker": ": ",
+        "lockerBtnText": "",
+        "lockerSubText": ""
+    },
+    "bikePopUp": {
+        "startRent": "Bérlet kezdete",
+        "ebike": "E-bringa",
+        "confirm": "Megerősítés",
+        "dockModal": "A dokkoló kinyílt.",
+        "countDown": "Vedd ki a bringát ",
+        "seconds": "másodpercen belül.",
+        "outOfTime": "A kerékpárt nem vették ki időben a dokkolóból.",
+        "message": "Próbáld meg újra egy másik bringával.",
+        "lowBattery": "Bike out of battery",
+        "battery": "Battery:"
+    },
+    "bikeBooking": {
+        "popUpText1": "Éppen lefoglalsz egy bringát.",
+        "popUpText2": "Vedd ki a bringádat a ",
+        "popUpText3": "20 percen belül.",
+        "confirm": "Megerősítés"
+    },
+    "activeBike": {
+        "activeRide": "AKTÍV bérlés",
+        "ebike": "E-bringa",
+        "location": "Lerakási pont(ok)",
+        "endRide": "Bérlés befejezése",
+        "contact": "Kapcsolat a támogással",
+        "stop": "Ideiglenes megállás?",
+        "message1": "Kézzel zárd le a bringa zárját. ",
+        "message2": "Kattintsd ide a bérlés folytatásához.",
+        "openLock": "OPEN BIKE lock",
+        "connectLock": "NYISD KI a zárat",
+        "goToBLEScreen": "Go to ble",
+        "actiesSlot": "Acties slot",
+        "lockDuringRide": "Lock during ride?",
+        "lockGuide": "To lock the bike during your ride you can push the button on the side of the lock and close the lock manually. Go to 'Connect to lock' to unlock again!"
+    },
+    "activeReservation": {
+        "title": "foglalás",
+        "ebike": "E-BRINGA",
+        "notice": "Vedd figyelembe, hogy esetleg túlfoglalási díjat számolunk fel.",
+        "okay": "OK",
+        "chargePoint": "Töltőállomás",
+        "ebikeExpired": "Az e-bike foglalásod lejárt.",
+        "chargePointExpired": "A töltőállomás foglalásod lejárt.",
+        "expiring": "",
+        "min": "",
+        "seconds": ""
+    },
+    "endBikeRide": {
+        "title": "A bérlés befejezése:\n",
+        "message1": "Vidd vissza a bringát valamelyik állomásra.",
+        "message2": "Helyezd be a bringát az egyik dokkolóba.",
+        "message3": "Készen is vagy! A bérlés automatikusan befejeződik.",
+        "buttonText": "Legközelebbi állomás"
+    },
+    "activeRideEnd": {
+        "title": "A bérlést ezen az állomáson akarod befejezni?",
+        "lockText": "Kézzel rád le a bringa lakatját.",
+        "cancelText": "Erősítsd meg a \"Bérlés befejezése\" megnyomásával!",
+        "doneText": "Készen is vagy! A bérlet ezzel befejeződött.",
+        "confirmEnd": "Bérlés befejezése megerősítés"
+    },
+    "kmDocking": {
+        "available": "Elérhető",
+        "notAvailable": "Nem elérhető",
+        "unlock": "Kinyitás"
+    },
+    "movinBlue": {
+        "available": "Elérhető",
+        "notAvailable": "Nem elérhető"
+    },
+    "takeCarRentalImages": {
+        "title1": "Kattints az autó ikonra",
+        "title2": "és csinálj fotót az autóról.",
+        "front": "ORR",
+        "back": "HÁTULJA",
+        "frontLeft": "Bal eleje",
+        "frontRight": "Jobb eleje",
+        "backLeft": "Bal hátulja",
+        "backRight": "Jobb hátulja",
+        "next": "KÖVETKEZŐ",
+        "imageCount1": "1",
+        "imageCount2": "2",
+        "imageCount3": "3",
+        "imageCount4": "4",
+        "uploadPhoto": "Fotó feltöltése",
+        "chooseOption": "Feltöltési opciók",
+        "take": "Fotó készítése",
+        "gallary": "Kiválasztás albumból",
+        "cancel": "Vissza",
+        "success": "Fotó sikeresen feltöltve",
+        "readyToUse": "Az autó kinyílt és használható"
+    },
+    "carRentalState": {
+        "describe": "Add meg, milyen tisztának tartod az autót",
+        "inside": "Belül",
+        "outside": "Kívül",
+        "remarks": "Megjegyzések",
+        "continue": "FOLYTATÁS",
+        "endFormAlert": "Kérlek töltsd ki a sérülési naplót az út befejezésekor."
+    },
+    "carRentalFinalCheck": {
+        "almostDone": "Majdnem kész!",
+        "endRideText": "A bérlés befejezéséhez győződj meg róla, hogy",
+        "checkBox1": "a motort leállítottad",
+        "checkBox2": "minden ablak, ajtók, csomagtérajtó zárva",
+        "checkBox3": "kiszálláskor az összes személyes dolgod veled van",
+        "checkBox4": "a kulcs a kesztyűtartóban a kulcstartóban van",
+        "lockAndReturn": "Zárd le az autót"
+    },
+    "carRentalFeedback": {
+        "rateService": "Értékeld a szolgáltatást",
+        "feedback": "Visszajelzésed",
+        "popUpText1": "Köszönjük a bérlést.",
+        "popUpText2": "Viszlát!",
+        "confirm": "Megerősítés"
+    },
+    "rideDetails": {
+        "rental": "Bérlés",
+        "start": "Indulás",
+        "startLocation": "Induló helyzet",
+        "end": "Befejezés",
+        "notAvailable": "Nem elérhető",
+        "endLocation": "Befejezés helye",
+        "totalDuration": "Teljes időtartam",
+        "kmTravel": "Megtett km",
+        "co2": "Megspórolt CO2",
+        "rating": "Értékelés",
+        "feedbackText": "Beküldött visszajelzés",
+        "okay": "OK",
+        "noRide": "Nincs korábbi bérlet",
+        "details": "",
+        "ongoing": ""
+    },
+    "walktrough": {
+        "slide1": {
+            "title": "Üdvözöl a Pannon-Wow!",
+            "content": "Ahhoz, hogy használni tudj egy bringát, egy előfizetési fajtát kell választanod és regisztrálni egy bankkártyát. Ezt a profilod alatt tudod megtenni a menüben, vagy a jobb felső sarokban a figura ikonra kattintva."
+        },
+        "slide2": {
+            "title": "Elérhető állomások és bringák",
+            "content": "Egy elérhető bringához menj a térképre és navigálj az egyik állomáshoz. Ezeket külön jelöljük a térképen. Az állomás ikonjára nyomva látni fogod mennyi elérhető bringa van ott és azt is, mennyi szabad dokkoló van az állomáson. Ugyancsak látni fogod az állomás nevét és a dokkolók számát."
+        },
+        "slide3": {
+            "title": "Bérlés kezdése",
+            "contentpara1": "Amikor egy állomásnál vagy, válaszd ki az egyik bringát és nézd meg, hogy nincs-e rajta sérülés.",
+            "contentpara2": "Ha a bringa dokkolóban van, ki tudod venni úgy, hogy beszkenneled a dokkolón lévő QR kódot. Ha a bringa nem dokkolóban van, akkor a hátsó zárján lévő QR kódot szkenneld be.",
+            "contentpara3": "Ha a zár nem nyit ki, ez azért lehet, mert az akkumulátor nagyon le van merülve, vagy nem megfelelően rakták be a dokkolóba. Ha így van, válasz másik bringát."
+        },
+        "slide4": {
+            "title": "Bérlés közben",
+            "contentpara1": "Bármikor meg tudsz állni és lezárni a bringát. Egyszerűen zárd le a hátsó zárral. Mindig használd a bringa elején lévő kábelt és azzal zárd egy oszlophoz vagy hasonlóhoz, hogy ne tudják elvinni. A kábel szabad fülét záráskor fűzd át a hátsó lakat szárán. ",
+            "contentpara2": "A bringazár kinyitásához szkenneld be a QR kódot ami a záron van. Kérlek figyelj arra, ha állomás környezetében zárod le a bringát a zárral, a bérlés nem fog automatikusan befejeződni. Ehhez válaszd a 'Bérlés befejezése' gombot az alkalmazásban."
+        },
+        "slide5": {
+            "title": "Bérlés befejezése",
+            "contentpara1": "A bérlés befejezéséhez menj el az egyik olyan állomáshoz amit a térképen látsz. Vagy berakod a bringát egy dokkolóba úgy, hogy az első villa jobb oldalán lévő lyukba be tudjon csúszni a dokkoló zár rúdja, vagy ha tele van a dokkoló, akkor lezárod a bringát a saját zárjával és az alkalmazásban kiválasztod a bérlés befejezése opciót.",
+            "contentpara2": "30 másodperccel a kerékpár dokkolása után a dokkolóban, vagy ha az állomás környezetében zártad le a bringát és befejezted az alkalmazáson a bérlést, kapni fogsz egy nyugtát. (A nyugtáidat az alkalmazásban a 'foglalásaim' menüpont alatt is megnézheted.) Te vagy felelős a bringa megfelelő 'leadásáért'. Ha az nem megfelelő/sikeres, lépj kapcsolatba az ügyfélszolgálattal, vagy jelentsd a hibát az alkalmazás 'hiba bejelentés' menüpontja segítségével."
+        },
+        "slide6": {
+            "title": "Általános",
+            "content": "Kérjük olvassa el alaposan az általános szerződése feltételeket. Rendszeres kövesse a weboldalunkat, Facebook oldalunkat, hogy informálva legyen a legfrissebb tudnivalókról. Te magad vagy felelős a bringáért amíg bérled, vigyázz ezért rá és magadra is."
+        },
+        "slide7": {
+            "title": "GYIK!",
+            "contentpara1": "Alább találhatóak egyéb kérdésekre a válaszok a rendszer további használatával kapcsolatosan: ",
+            "contentpara2": "GYIK",
+            "contentpara3": "APP verzió: 1.7.7"
+        },
+        "skipButtonText": "Tovább",
+        "doneButtonText": "Kész"
+    },
+    "carSharing": {
+        "start": "Indulás?",
+        "car": "autó",
+        "battery": "akkumulátor",
+        "confirm": "Megerősítés",
+        "lock": "",
+        "unlock": ""
+    },
+    "chargingPolePopUp": {
+        "startRent": "Töltés elkezdése",
+        "chargingPoint": "Töltőállomás",
+        "confirm": "Megerősítés",
+        "charging": "Töltés folyamatban.",
+        "instruction": "Kérlek kövesd a töltőállomáson látható utasításokat.",
+        "unable": "Töltés nem indult el.",
+        "warning": "Győződj meg róla, hogy az autót bezártad és próbáld újra.",
+        "okay": "OK",
+        "available": ""
+    },
+    "accessControl": {
+        "grantMessage1": "Hozzáférés engedélyezve. ",
+        "grantMessage2": "Lépj be.",
+        "deniedMessage1": "Hozzáférés tiltva.",
+        "deniedMessage2": "Próbálkozz újra",
+        "deniedMessage3": "vagy vedd fel a kapcsolatot a támogatással",
+        "lockerDeniedMessage1": "",
+        "lockerDeniedMessage2": "",
+        "lockerDeniedMessage3": "",
+        "okay": ""
+    },
+    "chargePointBooking": {
+        "popUpText1": "Éppen lefoglalsz egy töltőtállomást. ",
+        "popUpText2": "Igyekezz, hogy 20 percen belül ",
+        "popUpText3": "el tudd kezdeni használni a töltőállomást.",
+        "confirm": "Megerősítés"
+    },
+    "startRentalCarState": {
+        "startFormAlert": "Kérlek töltsd ki a sérülési naplót az út elkezdéséhez.",
+        "describe": "Mennyire találod tisztának az autót?",
+        "inside": "Belül",
+        "outside": "Kívül",
+        "remarks": "Megjegyzés",
+        "startRide": "Vezetés kezdete",
+        "youCanStart": "Mostmár elkezdheted a vezetést",
+        "pressStart": "Nyomja meg a Start gombot, vagy vegye ki a kulcsot a kesztyűtartóból. ",
+        "startAndStop": "Nyomja meg a Start/Stop gombot!",
+        "greeting": "Jó utat!",
+        "carUnlocking": "",
+        "wait": "",
+        "seconds": "",
+        "okay": "OK"
+    },
+    "reservationDetails": {
+        "reservationNumber": "Foglalási szám",
+        "details": "Részletek",
+        "start": "Start",
+        "end": "Vége",
+        "cancel": "Törlés",
+        "modify": "Módosítás",
+        "locate": "Keresés",
+        "startRent": "Bérlés kezdete",
+        "modalText1": "Arra készülsz, hogy lemond a foglalásod. ",
+        "modalText2": "Kérlek vedd figyelembe, hogy lemondási díjat számolhatunk fel.",
+        "confirm": "Megerősítés"
+    },
+    "activeCharging": {
+        "title": "Töltés befejezése",
+        "disconnect": "Húzd ki a töltőkábelt/csatlakozót az autóból!",
+        "closeText": "Zárd le a töltést az alkalmazásban.",
+        "doneText": "Készen is vagy! A töltés végetért. ",
+        "buttonText": "Töltés vége megerősítés",
+        "message": "Befejezted a töltést.",
+        "charging": "Töltés ideje: ",
+        "volume": "Betöltött energia mennyisége: ",
+        "greeting": "Viszlát!",
+        "activeCharging": "Töltés folyamatban ",
+        "chargeStation": "Töltőállomás ",
+        "location": "Hely ",
+        "charged": "Töltés alatt: ",
+        "remains": "(Maradék töltési idő) ",
+        "endCharging": "Töltés befejezése ",
+        "contact": "Kapcsolat a támogatással ",
+        "cost": "Tarifa: ",
+        "okay": "OK"
+    },
+    "extendReservation": {
+        "startTime": "Kezdés*",
+        "endTime": "Vége*",
+        "location": "Helyszín",
+        "showMap": "Mutasd a térképet",
+        "TypeOfVehicle": "Jármű típusa",
+        "extend": "Hosszabbítás",
+        "extensionSuccessMessage": "A hosszabbítás sikeres volt.",
+        "extensionUnSuccessMessage": "Nem lehetett hosszabbítani.",
+        "okay": "OK"
+    },
+    "companyLogin": {
+        "emailAddress": "Email cím",
+        "password": "Jelszó",
+        "passwordForgotten": "Elfelejtette a jelszavát?",
+        "clickHere": "Kattints ide",
+        "selectOperator": "Select an operator",
+        "login": ""
+    },
+    "payment": {
+        "title": "Véglegesítse a fizetési beállításait.",
+        "cardUsageDisclaimer": "Ha megadta a kártya adatait, azzal feljogosítja a Pannon-WOW-t, hogy az ÁSZF szerint a jövőbeli fizetéseket erre a kártyára terheljük.",
+        "selectPaymentMethod": ""
+    },
+    "newReservation": {
+        "chargePole": "Töltőállomás",
+        "locate": "Keresd meg",
+        "modify": "Modosítás",
+        "details": "Részletek",
+        "startRent": "Bérlet kezdete ",
+        "noReservation": "Nincs érvényes foglalás ",
+        "click": "Kattintson ide a foglaláshoz",
+        "okay": "OK"
+    },
+    "activeCarRental": {
+        "activeRide": "Aktív bérlet",
+        "endRide": "Bérlet befejezése",
+        "extendRide": "Bérlet hosszabbítása",
+        "contact": "Kapcsolat a támogatással ",
+        "stop": "Ideiglenes megállás? ",
+        "lock": "Zárás ",
+        "unlock": "Kinyitás",
+        "locking": "Locking",
+        "unlocking": "Unlocking",
+        "keyLock": "Please use the key to open and lock during the ride"
+    },
+    "activeRentalEnd": {
+        "rideEnd": "Az utad befejeződött. ",
+        "rideText": "Köszönjük, hogy minket választottál. ",
+        "rideText1": "Szép napot! ",
+        "axaLockGuide1": "",
+        "axaLockGuide2": "",
+        "axaLockGuide3": ""
+    },
+    "forgotPassword": {
+        "email": "Email cím",
+        "submit": "Beküldés"
+    },
+    "resetPassword": {
+        "password": "Jelszó",
+        "confirmPassword": "Jelszó megerősítése",
+        "reset": "Reset"
+    },
+    "ble": {
+        "bleDev": "BLE",
+        "lockType": "AXA",
+        "status": "Status message:",
+        "unlock": "Unlock",
+        "endRide": "End ride"
+    },
+    "Payments": {
+        "amount": "Amount",
+        "timeStamp": "Timestamp",
+        "status": "status"
+    },
+    "referralCode": {
+        "title": "Your referral code",
+        "code": "Invalid referral"
+    },
+    "pageTitles": {
+        "subscription": "Előfizetés",
+        "monthlySubscription": "Havi előfizetés",
+        "wallet": "Pénztárca",
+        "myReservations": "Foglalásaim",
+        "reservationDetails": "Foglalások részletei",
+        "stateOfTheCar": "Az autó állapota",
+        "newReservation": "Új foglalás",
+        "selectYourCar": "Válaszd ki az autódat",
+        "bookingConfirmation": "Foglalás megerősítése",
+        "finalChecks": "Végső ellenőrzése",
+        "feedback": "Visszajelzés",
+        "myRides": "Korábbi bérléseim",
+        "rideDetails": "Utak részletei",
+        "reportProblem": "Damage report",
+        "myAccountDetails": "Fiókbeállítások",
+        "carPictures": "Autó képek",
+        "extendReservation": "Foglalás hosszabbítás",
+        "topUp": "Feltöltés",
+        "bleDevelopment": "AXA lock",
+        "subscriptions": "Előfizetések",
+        "carRentalFeedback": "Visszajelzés",
+        "payments": "Payments",
+        "paymentMethod": "Payment method",
+        "referral": "Referral code"
+    },
+    "deeplink": {
+        "title": "Már van egy fiókod. ",
+        "message": "Válaszd a céges belépést a főképernyőn és add meg az e-mail címedet és a jelszavadat.",
+        "button": "Folytatás"
+    },
+    "alert": {
+        "error": "Valami hiba történt. ",
+        "image": "Válaszd ki az összes képet.",
+        "close": "Sikeresen lezártad. ",
+        "response": "Kérlek jelezz vissza. ",
+        "password": "A jelszó módosult.",
+        "endDate": "A vége időpontja nem lehet  kezdés előtt. ",
+        "vehicleList": "Nincsenek elérhetők járművek a kiválasztott időtartamra.",
+        "feedback": "Visszajelzés elküldve. ",
+        "rating": "Kérlek értékelj!",
+        "expired": "A fiókja érvényességi ideje lejárt. "
+    },
+    "topUpScreen": {
+        "name": "", 
+        "price": "",
+        "amount": "",
+        "wallet": "",
+        "use": "",
+        "voucher": "",
+        "apply": "",
+        "loaderText1": "Creating payment Intent...",
+        "loaderText2": "Checking payment intent response...",
+        "loaderText3": "Confirming payment for bancontact...",
+        "paymentDone": ""
+    },
+    "topUpModal": {
+        "noMethodFound": "",
+        "AddMethodText": "",
+        "AddMethodButton": ""
+    },
+    "validators": {
+        "emptyEmail": "",
+        "wrongEmail": "",
+        "emptyPassword": "",
+        "wrongPassword": "",
+        "minCharacter": "",
+        "caseError": "",
+        "numericError": "",
+        "charError": "",
+        "fulfillRequirement": "",
+        "confirmPassword": "",
+        "emptyField": "",
+        "streetError": "",
+        "emptyNumber": "",
+        "wrongNumber": ""
+    },
+    "paymentMethod": {
+        "type": "Payment type",
+        "brand": "Card brand",
+        "expiry": "Expiry",
+        "digits": "Last 4 digit",
+        "remove": "Remove",
+        "noPayments": "No payment method available",
+        "add": "Add",
+        "confirmation": "Are you sure?",
+        "note": "Press yes to remove payment method."
+    }
+}
